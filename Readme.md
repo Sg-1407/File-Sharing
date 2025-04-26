@@ -1,7 +1,5 @@
 # File Sharing Manager
 
-# File Sharing Manager
-
 A simple React-based file sharing application.
 
 ## Features
